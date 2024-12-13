@@ -1,0 +1,47 @@
+<resources>
+    // login register
+    <string name="app_name">Skinalyze</string>
+    <string name="image_logo">image_logo</string>
+    <string name="textView_login">Login</string>
+    <string name="inputText_username">Username</string>
+    <string name="inputText_password">Password</string>
+    <string name="inputText_name">Name</string>
+    <string name="button_login">Login</string>
+    <string name="button_detection">Analyze</string>
+    <string name="button_register">Register</string>
+    <string name="button_logout">Logout</string>
+    <string name="button_save">Save</string>
+    <string name="login_desc">Dont have an account?</string>
+    <string name="register_desc">Already have an account?</string>
+    <string name="textView_register">Register</string>
+    <string name="error_textField">Fill in first</string>
+    <string name="email_error">Enter a valid email address!</string>
+    <string name="password_error">Minimum 5 character password</string>
+    // home
+    <string name="title_home">Home</string>
+    <string name="title_camera">Detection</string>
+    <string name="title_history">History</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_update">Update Profile</string>
+    <string name="profile_name">Name Profile</string>
+    <string name="initial_name">User</string>
+    <string name="initial_hello">Hello</string>
+    <string name="initial_article">Article</string>
+    <string name="profile_username">Name Username</string>
+    <string name="textview_camera">Insert an image through the gallery or camera. Then, click Skinalyze to detect skin diseases.</string>
+    <string name="button_picture">Add Image</string>
+    // list
+    <string name="history_detection">Yes, you are indicated to have carcinoma with a high level of confidence. It is recommended to see a doctor immediately.</string>
+    <string name="desc_article">Description</string>
+    <string name="title_result">Result</string>
+    <string name="title_google_result">Title</string>
+    <string name="description_result">Carcinoma is the most common type of cancer, accounting for 80% to 90% of all cancer diagnoses.</string>
+    <string name="history_time">2024_12_11 23:30:00</string>
+    <string name="result_detection">Result: </string>
+    <string name="name_disease">Disease Name</string>
+    <string name="prediction_result_error">Undetected Disease</string>
+    <string name="imageView_banner">Banner</string>
+    <string name="item_back">Back</string>
+    <string name="google_result">Google Result</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
